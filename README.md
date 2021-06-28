@@ -1,10 +1,10 @@
 # Graphic-Image
 
+## About The Project
 In this project we created a computerized image.
 The project was built in accordance with the principles of software engineering, using the Agile methodology, and included many mathematical calculations.
 
 
-## Screen shots
 The final image that we created:
 
 
