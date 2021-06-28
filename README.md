@@ -17,17 +17,19 @@ In this project we created a computerized image.
 The project was built in accordance with the principles of software engineering, using the Agile methodology, and included many mathematical calculations.
 
 The final image that we created:
+
 ![miniProject3](https://user-images.githubusercontent.com/85216945/123699599-22faeb00-d868-11eb-8e65-d9d27f2b19aa.jpg)
 
 Additional photos we created while working on the project:
+
 ![trianglesSphere with 40 ray](https://user-images.githubusercontent.com/85216945/123699838-5f2e4b80-d868-11eb-9552-47b9e8778639.jpg)
 
 ![shadow with transparency](https://user-images.githubusercontent.com/85216945/123699881-6ce3d100-d868-11eb-96b9-c396b3dfce91.jpg)
 
 ## built-with
 
-Built in JAVA accordance with the principles of software engineering, using the Agile methodology, and included many mathematical calculations.
-
+Built in JAVA accordance with the principles of software engineering, 
+using the Agile methodology, included many mathematical calculations.
 ## Installation
 
 Check that Eclipse in installed. 
