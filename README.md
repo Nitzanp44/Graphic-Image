@@ -4,8 +4,8 @@
 In this project we created a computerized image.
 The project was built in accordance with the principles of software engineering, using the Agile methodology, and included many mathematical calculations.
 
-
 The final image that we created:
+![miniProject3](https://user-images.githubusercontent.com/85216945/123699599-22faeb00-d868-11eb-8e65-d9d27f2b19aa.jpg)
 
 
 Additional photos we created while working on the project:
