@@ -42,7 +42,7 @@ determine the distance of the camera from the scene and other parameters.
 
 ## Credits
 
-This project was done with my classmate Nitzan Popovich. 
+This project was done with my classmate Reut Levenberg. 
 
 
 
